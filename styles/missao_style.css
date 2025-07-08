@@ -161,12 +161,15 @@ section{
 }
 
 section{
-    background-image: url('../img/fundo.png'), url('../img/fundoInvertido.png');
-    background-position: right top, left bottom;
-    background-repeat: no-repeat, no-repeat;
-    /* Define o tamanho de cada imagem em ordem, separado por vírgula */
-    background-size: 50% auto, 50% auto;
+     position: relative;
+   background: url('../img/fundo.png') no-repeat right top;
+   background-size: contain;
+   min-height: 100vh; /* ou altura necessária */
+   z-index: 0;
+   overflow: hidden;
 }
+
+
 
 .cards, .cards2{
     display: flex;
