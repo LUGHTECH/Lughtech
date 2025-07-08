@@ -1,0 +1,507 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto, sans-serif;
+}
+
+
+body{
+    overflow-x: hidden;
+    background-color: #22272E;
+}
+/*CABEÇALHO*/
+header{
+    width: 100%;
+    height: auto;
+    background-color: #22272E;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 20;
+    
+}
+
+header .container{
+    display: flex;
+    justify-content: center;
+    height: 80px; 
+}
+
+header .container nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+.ul1, .ul2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+}
+
+
+.ul1, .ul2 li{
+    list-style: none;
+}
+
+.ul1, li a, .ul2 li a{
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.logo{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.logo img{
+    height: 150px;
+}
+
+/*BANNER PRINCIPAL*/
+
+
+main{
+    width: 100%;
+    height: 630px;
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+
+main .container{
+    height: 100%;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+main .container .chamada{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    color: white;
+    margin-bottom: 30%;
+}
+
+.chamada h3 {
+    font-size: 1.1rem;
+    margin-left: 3%;
+    font-weight: 350;
+}
+
+.chamada h1{
+    font-size: 3.1rem;
+    color: #2980B9;
+}
+
+.chamada h1 span{
+    font-size: 3.8rem;
+    color: #f39c12;
+
+}
+
+.chamada .reference {
+    margin-top: 2%;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.container h2 span{
+    margin-top: 1%;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.missaoBtn{
+    display: flex;
+    align-items: center;
+    padding-left: 2%;
+}
+
+.missaoBtn button{
+     height: 40px;
+     width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #2980B9;
+    border: none;
+    color: white;
+}
+
+.banner {
+    width: auto;
+    height: auto;
+}
+
+.banner img {
+    height: 44rem;
+}
+
+/* Fim Banner */
+
+section{
+    width: 100%;
+    height: auto;
+    margin-top: 18%;
+    margin-bottom: 10%;
+   
+    
+}
+
+section{
+    background-image: url('../img/fundo.png'), url('../img/fundoInvertido.png');
+    background-position: right top, left bottom;
+    background-repeat: no-repeat, no-repeat;
+    /* Define o tamanho de cada imagem em ordem, separado por vírgula */
+    background-size: 50% auto, 50% auto;
+}
+
+.cards, .cards2{
+    display: flex;
+    align-items: center;
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.cardImg{
+    width: 22rem;
+    height: 26rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f39c12;
+}
+
+.cardImg img{
+    width: 12rem;
+}
+
+.cardText {
+    margin-left: 4%;
+    height: 16rem;
+    width: 35rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    color: white;
+}
+
+.cardText h3 {
+    font-size: 1.4rem;
+    margin-bottom: 6%;
+    color: #f39c12;
+}
+
+.cardText p {
+    font-size: 1.2rem;
+    font-weight: 350;
+    
+}
+
+.cards2 {
+    flex-direction: row-reverse;
+}
+
+.cards2 .cardImg {
+    background-color: #2980B9;
+}
+
+.cards2 .cardText h3 {
+    color: #2980B9;
+}
+
+.cards2 .cardText {
+    align-items: end;
+    margin-right: 4%;
+    margin-left: 0;
+    text-align: right;
+}
+
+/* quem somos */
+
+.quemSomos-title{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+}
+
+.quemSomos-title{
+    font-size: 1.4rem;
+}
+
+.quemSomos{
+    width: 100%;
+    background-color: #ff9f05;
+    height: 80rem;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.video{
+    margin-bottom: 7rem;
+}
+
+.cards-somos{
+    display: flex;
+    align-items: center;
+    margin-bottom: 8%;
+    width: auto;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.cardText-somos{
+    margin-left: 4%;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: start;
+    color: black;
+}
+
+.cardText-somos{
+    font-size: 1.4rem;
+    font-weight: 500;
+
+}
+
+.cardImg-somos img{
+    width: 22rem;
+}
+
+.cards-somos2{
+    flex-direction: row-reverse;
+    margin-bottom: 10rem;
+    
+}
+
+.cards-somos2 .cardText-somos{
+    margin-left: 0;
+    margin-right: 4%;
+}
+
+/* previa */
+
+.previa{
+    position: relative;
+    display: inline-block;
+}
+
+.previa img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*FOOTER*/
+
+footer{
+    width: 100%;    
+    margin-top: 8%;
+    background-color: #22272E   ;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logoFooter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    padding-bottom: 1%;
+}
+
+.logoFooter img{
+    width: 250px;
+    height: 200px;
+}
+
+.logoFooter p{
+    color: white;
+    font-size: 1.2rem;
+    color: #2980B9;
+}
+
+.listas{
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    text-decoration: none;
+    list-style: none;
+    height: 160px;
+}
+
+.listas h3{
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 4%;
+    font-weight: 100;
+    color: #f39c12;
+}
+
+.listas li{
+   margin-bottom: 8px;
+   color: white;
+   font-weight: 100;
+}
+
+.listas li a{
+    color: white;
+}
+
+.listas li img{
+    margin-top: 2%;
+    margin-left: 9px;
+}
+
+
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.disclaimer{
+    border-top: 1px solid white;
+    width: 85%;
+    display: block;
+}
+
+.disclaimer p{
+    margin: 1% 0;
+    color: white;
+    text-align: center;
+}
+
+.listas li a:hover{
+    color: #2980B9;
+}
+
+/*SUBMENU*/
+
+.submenu{
+    position:absolute;
+    background-color: #22272E;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 20;
+    padding: 3% 0.3%;
+    opacity: 0;
+    visibility: hidden;
+    top: 98%;
+    z-index: 1;
+    border-left: 1px solid #f39c12;
+    border-bottom: 1px solid #f39c12;
+    border-right: 1px solid #f39c12;
+    height: 50px;
+    border-radius: 0 0 5px 5px;
+}
+
+.azul{
+    border-left: 1px solid #2980B9;
+    border-bottom: 1px solid #2980B9;
+    border-right: 1px solid #2980B9;
+}
+
+
+
+.submenu ul{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 200px;
+    gap: 10px;
+}
+
+
+
+.connect:hover .submenu{
+    opacity: 1;
+    visibility: visible;
+    transition: 0.5s ease;
+}
+
+.connect:hover{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2px;
+}
+
+
+
+.connect{
+    height: 75px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;    
+}
+
+.submenu ul li{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+   
+    
+
+}
+
+
+.submenu li{
+    list-style: none;
+    width: 100%;
+    padding: 1%;
+}
+
+
+
+.submenu li a{
+    text-decoration: none;
+    color: #f39c12;
+    font-size: 1.1rem;
+    width: 50%;
+}
+
+
+.azul li a{
+    color: #2980B9;
+}
+
+.submenu li a:hover{
+    color: white;
+}
+
+
+.transicao {
+  height: 100px;
+  background: linear-gradient(to bottom, #22272E, #f39c12); /* Transição suave */
+}
+
+
