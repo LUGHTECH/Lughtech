@@ -1,0 +1,47 @@
+@media(max-width: 500px){
+
+    header{
+        position: relative;
+        background-color: white;
+        border: solid;
+    }
+    
+    header .container nav .ul1, .ul2{
+        display: none;
+    }
+
+    .logo{
+        border: solid;
+        width: 50%;
+    }
+
+    .logo img{
+        width: 100%;
+    }
+
+    main{
+        height: 60vh; /* 60% da altura da viewport */
+        max-width: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+
+    main .container{
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        background-size: cover;
+    }
+
+    .chamada h1{
+        font-size: 2rem;
+    }
+
+    .missaoBtn button{
+        border: solid;
+        width: 100px;
+    }
+
+    
+
+
+}

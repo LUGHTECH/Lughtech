@@ -241,12 +241,14 @@ section{
     text-align: center;
     align-items: center;
     width: 100%;
-    margin-top: 10rem;
-    margin-bottom: 3rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    color: white;
 }
 
 .quemSomos-title{
     font-size: 1.4rem;
+    
 }
 
 .quemSomos{
@@ -258,11 +260,16 @@ section{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
 
 .video{
     margin-bottom: 7rem;
+    max-height: 1000 px;
+    height: 100%;
+    width: 500px;
+    border: solid;
 }
 
 .cards-somos{
@@ -321,8 +328,7 @@ section{
 
 footer{
     width: 100%;    
-    margin-top: 8%;
-    background-color: #22272E   ;
+    background-color: #22272E;
 }
 
 footer .container{
@@ -384,7 +390,6 @@ footer .container{
     margin-left: 9px;
 }
 
-
 .container2{
     display: flex;
     align-items: center;
@@ -405,6 +410,12 @@ footer .container{
 .listas li a:hover{
     color: #2980B9;
 }
+
+.equipa{
+    display: flex;
+    justify-content: center;
+}
+
 
 /*SUBMENU*/
 
