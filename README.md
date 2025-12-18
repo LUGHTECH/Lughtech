@@ -26,7 +26,8 @@ Nosso logo reflete essa ideia: o círculo representa o sol, cercado por ícones 
 ### PROTÓTIPOS DA LOGO
 
 
-<img width="250" height="250" alt="9" src="https://github.com/user-attachments/assets/bfdbd305-f2b0-458e-a1c8-46562628ca43" /> <img width="250" height="250" alt="12" src="https://github.com/user-attachments/assets/6cf24ad2-888f-4e77-9e7f-c2ff2bd4c26c" />  <img width="250" height="250" alt="logotipos" src="https://github.com/user-attachments/assets/3efa9492-5260-4d6b-bdbc-f90be97497ab" /><img width="250" height="250" alt="logotipos" src="https://github.com/user-attachments/assets/fa31d25f-f742-428d-ac7a-2529ed1bbf22" />
+<img width="250" height="250" alt="9" src="https://github.com/user-attachments/assets/bfdbd305-f2b0-458e-a1c8-46562628ca43" /> <img width="250" height="250" alt="12" src="https://github.com/user-attachments/assets/6cf24ad2-888f-4e77-9e7f-c2ff2bd4c26c" />  <img width="250" height="250" alt="logotipos" src="https://github.com/user-attachments/assets/3efa9492-5260-4d6b-bdbc-f90be97497ab" /><img width="250" height="250" alt="13" src="https://github.com/user-attachments/assets/2fca9958-8af8-44f7-b32d-4f8d4fc1acf4" />
+
 
 
 
