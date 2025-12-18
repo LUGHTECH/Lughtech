@@ -11,8 +11,28 @@ O nome Lughtech vem de Lugh, o deus celta da luz e da criatividade, junto de Tec
 Nosso logo reflete essa ideia: o círculo representa o sol, cercado por ícones em órbita, como conexões humanas. As cores — laranja, pela criatividade, e azul, pela confiança — representam bem o que somos: uma empresa que quer iluminar o digital com interação humana.
 
 
-### Tela de Inicial do Site
+### Tela Inicial do Site
 
 
 <img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/b4165593-88cc-45cb-b060-873f5792911f" />
+
+
+### Tela da Página Missão
+
+
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/9338390e-3132-4f5e-a9cd-717f5cdbd232" />
+
+
+### PROTÓTIPOS DA LOGO
+
+
+<img width="500" height="500" alt="9" src="https://github.com/user-attachments/assets/bfdbd305-f2b0-458e-a1c8-46562628ca43" /> <img width="500" height="500" alt="12" src="https://github.com/user-attachments/assets/6cf24ad2-888f-4e77-9e7f-c2ff2bd4c26c" />  <img width="500" height="500" alt="logotipos" src="https://github.com/user-attachments/assets/3efa9492-5260-4d6b-bdbc-f90be97497ab" />
+
+
+
+
+
+
+
+\Os designs da logo e dos layouts do site foram desenvolvidos utilizando ferramentas como Canva e Figma. Todo o material visual foi criado manualmente, sem o uso de Inteligência Artificial./
 
