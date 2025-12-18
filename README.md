@@ -23,7 +23,7 @@ Nosso logo reflete essa ideia: o círculo representa o sol, cercado por ícones 
 <img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/9338390e-3132-4f5e-a9cd-717f5cdbd232" />
 
 
-### PROTÓTIPOS DA LOGO
+### Protótipos da Logo
 
 
 <img width="250" height="250" alt="9" src="https://github.com/user-attachments/assets/bfdbd305-f2b0-458e-a1c8-46562628ca43" /><img width="250" height="250" alt="12" src="https://github.com/user-attachments/assets/6cf24ad2-888f-4e77-9e7f-c2ff2bd4c26c" /><img width="250" height="250" alt="logotipos" src="https://github.com/user-attachments/assets/3efa9492-5260-4d6b-bdbc-f90be97497ab" /><img width="250" height="250" alt="13" src="https://github.com/user-attachments/assets/2fca9958-8af8-44f7-b32d-4f8d4fc1acf4" /><img width="250" height="250" alt="10" src="https://github.com/user-attachments/assets/20395b9b-7f3b-4f72-a4cb-b6c691fb965a" /><img width="250" height="250" alt="14" src="https://github.com/user-attachments/assets/cabdfb18-4fd4-415a-a26f-077927bbb8dd" />
@@ -33,6 +33,11 @@ Nosso logo reflete essa ideia: o círculo representa o sol, cercado por ícones 
 
 
 
+
+### Logo Final
+
+
+![logotipo](https://github.com/user-attachments/assets/b829c75e-b095-44ff-95ab-2b4b5796f9ce)
 
 
 
